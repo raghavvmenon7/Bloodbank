@@ -140,7 +140,4 @@ foreach($results as $result)
 	<!-- //Js files -->
 
 </body>
-
-
-	
 </html>
